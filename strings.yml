@@ -7,18 +7,16 @@ main:
   header:
     blurb: "Join us on Slack!"
     detail:
-      "... and help us bring down the Resistance! First we just need to verify
+      "Add your voice to the Thunder and live by your Instincts! Join us on slack. First we just need to verify
       some information from you and then we'll get you started."
     subtext:
       "We look forward to seeing you there."
   about:
     team:
-      name: "Enlightened Demo"
-      link: "https://enlightened.slack.com"
+      name: "Team Instinct Slack"
+      link: "https://pokemoninstinct.slack.com"
       description:
-        "This is just a SIR demo. Please feel free to send an application (we
-        enjoy reading your comments), but no invites will be sent out as a
-        result."
+        "This is the Slack for Team Instinct hosted out of ICT."
 apply:
   # Displayed at the top of the page
   header:
@@ -53,11 +51,11 @@ apply:
         # name of this field
         name: "username"
         # css class name for styling
-        class: "agent-name"
+        class: "class-name"
         # title shown to user
-        title: "Ingress agent name"
+        title: "Pokemon Trainer name"
         # help text shown to user below title text
-        help: "Let us know your agent name for verification."
+        help: "Let us know your trainer name for verification."
         # required fields must be filled in to submit the form
         required: true
         # readonly fields are not editable
@@ -88,13 +86,13 @@ apply:
       -
         name: "screenshot"
         class: "screenshot"
-        title: "Upload a screenshot of Ingress showing your player account"
+        title: "Upload a screenshot of Pokemon Go showing your Trainer screen"
         help:
           "It's <b>highly recommended</b> to submit a recent screenshot
-          that clearly shows your agent name and the open faction chat or
-          your agent profile. This will greatly increase your chances of
-          approval. Screenshots of the <i>intel page, IITC, or other
-          unofficial app will not be accepted</i>—you must capture a
+          that clearly shows your trainer name and shows your team affiliation
+          on your profile screem. This will greatly increase your chances of
+          approval. Screenshots of other pages or other
+          unofficial apps will not be accepted</i>—you must capture a
           screenshot from the <i>official Android or iOS app</i>."
         required: true
         readonly: false
