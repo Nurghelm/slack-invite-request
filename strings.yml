@@ -12,8 +12,8 @@ main:
     subtext:
       "We look forward to seeing you there."
   about:
-    team:Instinct
-      name: "Pokemon Go Slack"
+    team:
+      name: "Instinct Slack"
       link: "https://pokemoninstinct.slack.com"
       description:
         "This is the Slack for Team Instinct hosted out of ICT."
