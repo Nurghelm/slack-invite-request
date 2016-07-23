@@ -2,7 +2,7 @@
 # -
 # Configure the strings below however suits your needs
 ---
-title: Slack Invite Request Demo
+title: Pokemon Go Team Instinct
 main:
   header:
     blurb: "Join us on Slack!"
@@ -12,8 +12,8 @@ main:
     subtext:
       "We look forward to seeing you there."
   about:
-    team:
-      name: "Team Instinct Slack"
+    team:Instinct
+      name: "Pokemon Go Slack"
       link: "https://pokemoninstinct.slack.com"
       description:
         "This is the Slack for Team Instinct hosted out of ICT."
